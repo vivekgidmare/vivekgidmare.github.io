@@ -1,0 +1,41 @@
+.description {
+  font-family: 'Rubik';
+  font-size: medium;
+  color: #26282E;
+  font-style: normal;
+  margin: auto;
+}
+
+.subtitle {
+  font-family: 'Rubik';
+  font-style: italic;
+  color: #5F5F65;
+  font-size: large;
+  margin-bottom: auto;
+}
+
+.title {
+  font-family: 'Rubik';
+  font-style: normal;
+  color:  #26282E;
+  font-size: larger;
+}
+
+.header {
+  font-family: Rubik;
+  font-style: normal;
+  font-size: xx-large;
+}
+.date {
+  font-family: Rubik;
+  color: #FF6859;
+  font-size: medium;
+  font-style: italic;
+}
+
+.brand {
+  font-family: Rubik;
+  color: #232f34;
+  font-size: large;
+  font-style: normal;
+}
